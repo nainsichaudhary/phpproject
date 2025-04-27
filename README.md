@@ -212,6 +212,8 @@ function sendXKCDUpdatesToSubscribers() {
 
 ### 📩 Email Content Guidelines
 
+⚠️ Note: The Subject and Body of the email must strictly follow the formats below, including the exact HTML structure.
+
 #### ✅ XKCD Comic Email:
 - **Subject:** `Your XKCD Comic`
 - **Body Format:**
