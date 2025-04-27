@@ -146,11 +146,15 @@ function sendXKCDUpdatesToSubscribers() {
 
 ## 📝 Submission Steps
 
-1. **Fork** this repository in the **GitHub Classroom**.
-2. **Implement** the required features inside the `src/` directory.
-3. **Push** your code to your **GitHub repository**.
-4. **Raise a Pull Request (PR)** to submit your assignment.
-5. **Wait** for your submission to be reviewed.
+1. **Clone** the repository to your local machine.  
+2. **Create a new branch** from the `main` branch. **Do not** push code directly to `main`.  
+3. **Implement** the required features inside the `src/` directory.  
+4. **Push** your code to your **branch** (not `main`).  
+5. **Raise a Pull Request (PR) only once** against the `main` branch when all your code is finalized.  
+   - **Do not raise multiple PRs.**  
+   - **Do not add multiple commits to a PR after submission.**  
+6. **Failure to follow these instructions will result in disqualification.**  
+7. **Wait** for your submission to be reviewed.  
 
 ---
 ## 📌 Input & Button Formatting Guidelines
