@@ -145,7 +145,11 @@ class PHPMailer
 
     protected $SMTPXClient = [];
 
-    
+    /**
+     * An implementation of the PHPMailer OAuthTokenProvider interface.
+     *
+     * @var OAuthTokenProvider
+     */
     protected $oauth;
 
     
